@@ -1,1 +1,2 @@
 Archivo para practicas de manejo de verciones con gif
+linea para validar el git checkout
