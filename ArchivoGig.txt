@@ -3,3 +3,4 @@ linea para validar el git checkout
 otra linea para eliminar
 jkhfkjsdahfkj ghfughsdfghubcvuyre
 ghubnacujrehvunvui
+otra linea para reset head
