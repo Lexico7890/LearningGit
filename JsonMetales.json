@@ -1,0 +1,150 @@
+{
+    "CustomerInformation": {
+        "IdentificationType": 31,
+        "Identification": "830018476",
+        "DV": 2,
+        "RegistrationName": "INDUSTRIAL DE EXTINTORES LTDA; INDUEXT LTDA ",
+        "CountryCode": "CO",
+        "CountryName": "Colombia",
+        "SubdivisionCode": "11",
+        "SubdivisionName": "BOGOTA",
+        "CityCode": "11001",
+        "CityName": "BOGOTA",
+        "AddressLine": "CARRERA 38 # 52-29 SUR",
+        "Telephone": "7411405",
+        "Email": "oscar.casas@correo.com",
+        "CustomerCode": "",
+        "AdditionalAccountID": 2,
+        "TaxLevelCodeListName": "49",
+        "FiscalResponsabilities": "R-99-PN"
+    },
+    "InvoiceGeneralInformation": {
+        "InvoiceAuthorizationNumber": "18760000001",
+        "PreinvoiceNumber": "",
+        "InvoiceNumber": "14626",
+        "DaysOff": "0",
+        "Currency": "USD",
+        "ExchangeRate": 3500.0,
+        "ExchangeRateDate": "",
+        "SalesPerson": "",
+        "Note": "VR. CANCELACIóN MORA FACTURA # IND947",
+        "ExternalGR": false
+    },
+    "Delivery": {
+      "AddressLine": "miami",
+      "CountryCode": "US",
+      "CountryName": "Estados Unidos",
+      "SubdivisionCode": "",
+      "SubdivisionName": "miami",
+      "CityCode": "",
+      "CityName": "miami",
+      "ContactPerson": "null",
+      "DeliveryDate": "0001-01-01T00:00:00",
+      "DeliveryCompany": "null",
+      "LossRiskResponsibilityCode": "",
+      "IdentificationConveyor": "",
+      "DVConveyor": ""
+    },
+    "AdditionalDocuments": {
+        "OrderReference": "",
+        "DespatchDocumentReference": "",
+        "ReceiptDocumentReference": "",
+        "AdditionalDocument": []
+    },
+    "AdditionalProperty": [
+      {
+        "Name": "Nota",
+        "Value": "notas"
+      },
+      {
+        "Name": "Destino:",
+        "Value": "barranquilla"
+      },
+      {
+        "Name": "P.O# :",
+        "Value": "buenaventura"
+      },
+      {
+        "Name": "Valor en letras:",
+        "Value": "diez mil"
+      },
+      {
+        "Name": "Total en COP:",
+        "Value": 10000
+      },
+      {
+        "Name": "Total FOB:",
+        "Value": "10000"
+      },
+      {
+        "Name": "Contenedor: ",
+        "Value": "10"
+      },
+      {
+        "Name": "Total Cantidad:",
+        "Value": "10"
+      }
+    ],
+    "PaymentSummary": {
+        "PaymentType": 1,
+        "PaymentMeans": 42,
+        "PaymentNote": ""
+    },
+    "ItemInformation": [
+        {
+            "ItemReference": "MOR",
+            "Name": "MORA",
+            "Quatity": 1.0,
+            "Price": 1198624.00,
+            "LineExtensionAmount": 1198624.00,
+            "BrandName": "brand",
+            "ModelName": "model",
+            "LineAllowanceTotal": 0.0,
+            "LineChargeTotal": 0.00,
+            "LineTotalTaxes": 0.00,
+            "LineTotal": 1198624.00,
+            "MeasureUnitCode": "94",
+            "FreeOfChargeIndicator": false,
+            "AdditionalReference": [],
+            "AdditionalProperty": [
+                {
+            "Name": "P.A",
+            "Value": 10
+          },
+          {
+            "Name": "Bultos",
+            "Value": "10 bultos"
+          },
+          {
+            "Name": "Peso Bruto",
+            "Value": 53
+          },
+          {
+            "Name": "Peso Empaque",
+            "Value": 53
+          },
+          {
+            "Name": "Peso Neto",
+            "Value": 59.366
+          },
+          {
+            "Name": "Otros",
+            "Value": 10
+          }    
+            ],
+            "TaxesInformation": [],
+            "AllowanceCharge": []
+        }
+    ],
+    "InvoiceTaxTotal": [],
+    "InvoiceAllowanceCharge": [],
+    "InvoiceTotal": {
+        "lineExtensionAmount": 1198624.00,
+        "TaxExclusiveAmount": 0.0,
+        "TaxInclusiveAmount": 1198624.00,
+        "AllowanceTotalAmount": 0.00,
+        "ChargeTotalAmount": 0.00,
+        "PrePaidAmount": 0.00,
+        "PayableAmount": 1198624.00
+    }
+}
