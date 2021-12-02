@@ -1,17 +1,24 @@
 body{
-    color: rgba(26, 178, 224, 0.89);
-    background: black;
     text-align: center;
-    font-size: 50px;
+    font-size: 30px;
     font-weight: 600;
-    padding: 0 5em;
+    padding: 1em 5em;
 }
 
 #principal{
-    color: rebeccapurple;
-    justify-content: center;
-    align-items: center;
     border: 1px solid rgb(199, 9, 9);
     text-align: left;
-    padding: 0 3em;
+    
+}
+#cabecera{
+    background: rgb(207, 89, 10);
+    padding: 1em 2em;
+    font-size: 40px;
+    color: aliceblue;
+}
+#info{
+    padding: 0.5em 3em;
+    justify-content: center;
+    align-items: center;
+    color: rgb(207, 89, 10);
 }
