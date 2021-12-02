@@ -1,0 +1,125 @@
+{
+    "CustomerInformation": {
+      "IdentificationType": 13,
+      "Identification": 8000890,
+      "DV": 8,
+      "RegistrationName": "PRUEBA 0 PACIENTE 0",
+      "CountryCode": "COL",
+      "CountryName": "COLOMBIA",
+      "SubdivisionCode": "11",
+      "SubdivisionName": "BOGOTA D.C.",
+      "CityCode": "11001",
+      "CityName": "BOGOTA",
+      "AddressLine": "CRA. 7 A # 121 - 36",
+      "Telephone": "3178490818",
+      "Email": "hmreio@yahoo.com",
+      "CustomerCode": "7",
+      "AdditionalAccountID": 2,
+      "TaxLevelCodeListName": 49,
+      "PostalZone": "",
+      "TaxSchemeCode": "ZZ",
+      "TaxSchemeName": "NO APLICA",
+      "FiscalResponsabilities": "R-99-PN",
+      "PartecipationPercent": 100.0,
+      "AdditionalCustomer": ""
+    },
+    "NoteGeneralInformation": {
+      "Prefix": "S01NC",
+      "NoteNumber": "86",
+      "CUFE": "c4cb1bfb957c06d912f2bd977fa4ebeddf63d297e272c51cfa02d55ec6add4cc5b49265e0aaeda2de1ae676b7888ad7a",
+      "ReferenceID": "SETT1342",
+      "IssueDateInvoice": "2021-09-08T14:27:11",
+      "IssueDateNote": "2021-09-08T02:03:42",
+      "CustomizationID": "20",
+      "DiscrepancyCode": "5",
+      "Currency": "COP",
+      "Note": "DTO DE 50 MIL",
+      "ExternalGR": false,
+      "ExchangeRate": "",
+      "ExchangeRateDate": "2021-09-06T18:13:01",
+      "CustomizationIDInvoice": "10"
+    },
+    "ItemInformation": [
+      {
+        "ItemReference": "1407",
+        "Name": "MONTURA MIRAFLEX 2864",
+        "Quatity": 1.0,
+        "Price": 268908.0,
+        "LineExtensionAmount": 242017.2,
+        "LineTotal": 288000.47,
+        "LineAllowanceTotal": 26890.8,
+        "LineChargeTotal": 0.0,
+        "MeasureUnitCode": "94",
+        "FreeOFChargeIndicator": false,
+        "Equals10Percent": false,
+        "AdditionalReference": [],
+        "Nota": "",
+        "AdditionalProperty": [
+          {
+            "Name": "ID Venta",
+            "Value": "67365"
+          },
+          {
+            "Name": "Recuperación",
+            "Value": "0"
+          },
+          {
+            "Name": "Tipo Recuperación",
+            "Value": ""
+          },
+          {
+            "Name": "Subsidio",
+            "Value": "0"
+          },
+          {
+            "Name": "Observación",
+            "Value": ""
+          }
+        ],
+        "TaxesInformation": [
+          {
+            "Id": "01",
+            "TaxEvidenceIndicator": false,
+            "TaxableAmount": 242017.2,
+            "TaxAmount": 45983.27,
+            "Percent": 19,
+            "BaseUnitMeasure": "",
+            "PerUnitAmount": ""
+          }
+        ],
+        "InvoiceTaxOthers": [],
+        "AllowanceCharge": [
+          {
+            "Id": "00",
+            "ChargeIndicator": false,
+            "AllowanceChargeReason": "Descuento no condicionado",
+            "MultiplierFactorNumeric": 10,
+            "Amount": 26890.8,
+            "BaseAmount": 268908
+          }
+        ]
+      }
+    ],
+    "NoteTaxTotal": [
+      {
+        "Id": "01",
+        "TaxEvidenceIndicator": false,
+        "TaxableAmount": 242017.2,
+        "TaxAmount": 45983.27,
+        "Percent": 19,
+        "BaseUnitMeasure": "",
+        "PerUnitAmount": ""
+      }
+    ],
+    "NoteTotal": {
+      "LineExtensionAmount": 242017.2,
+      "TaxExclusiveAmount": 242017.2,
+      "TaxInclusiveAmount": 288000.47,
+      "AllowanceTotalAmount": 0,
+      "PrepayAmount": 0,
+      "ChargeTotalAmount": 0,
+      "PayableAmount": 288000.47
+    },
+    "NoteAllowanceCharge": []
+  }
+  

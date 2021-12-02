@@ -1,9 +1,17 @@
 body{
-    justify-content: center;
-    align-items: center;
     color: rgba(26, 178, 224, 0.89);
     background: black;
     text-align: center;
     font-size: 50px;
     font-weight: 600;
+    padding: 0 5em;
+}
+
+#principal{
+    color: rebeccapurple;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgb(199, 9, 9);
+    text-align: left;
+    padding: 0 3em;
 }
