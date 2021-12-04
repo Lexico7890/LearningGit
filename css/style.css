@@ -16,6 +16,9 @@ body{
     font-size: 40px;
     color: aliceblue;
 }
+strong{
+    color: rgb(17, 82, 180);
+}
 #info{
     padding: 0.5em 3em;
     justify-content: center;
