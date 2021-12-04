@@ -26,3 +26,8 @@ strong{
     color: rgb(207, 89, 10);
     
 }
+#footer{
+    background: grey;
+    text-align: center;
+    height: 60px;
+}
